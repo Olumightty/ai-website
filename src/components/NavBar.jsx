@@ -4,7 +4,7 @@ function NavBar(){
     return(
         <nav className="flex justify-between items-center text-white">
             <div>
-                <img src="/GPT-3.png" alt="logo" />
+                <img src="/GPT-3.png" alt="logo-icon" />
             </div>
             <ul className="flex gap-4">
                 <li>Home</li>
